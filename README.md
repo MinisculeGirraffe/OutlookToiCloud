@@ -1,6 +1,6 @@
 # OutlookToiCloud
 
-Pure NodeJS utility to batch import an outlook contact CSV file into iCloud. 
+Pure NodeJS utility to batch import an Outlook contact CSV file into iCloud. 
 
 
 ### Installing
