@@ -5,9 +5,7 @@ Pure NodeJS utility to batch import an outlook contact CSV file into iCloud.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Clone the repository and install node modules.
 
 ```
 git clone https://github.com/MinisculeGirraffe/OutlookToiCloud.git
