@@ -137,6 +137,5 @@ const addContact = async (contacts) => {
   contacts.forEach(async (contact) => {
     const data = await myCloud.Contacts.list();
     const newChangeset = await myCloud.Contacts.new(contact);
-    console.log(newChangeset);
   });
 };
